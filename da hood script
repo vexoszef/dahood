@@ -151,7 +151,7 @@ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 MainFrame.Name = "MainFrame"
 MainFrame.Parent = ScreenGui
-MainFrame.BackgroundColor3 = Color3.fromRGB(45, 48, 53)
+MainFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 1)
 MainFrame.Position = UDim2.new(0.341075361, 0, 0.227027863, 0)
 MainFrame.Size = UDim2.new(0, 430, 0, 261)
 
